@@ -1,0 +1,21 @@
+# Below are some example settings. You can access your scope's settings by
+# calling scopes.self.settings from anywhere in your scope implementation.
+# E.g. var location = scopes.self.settings["location"].get_string();
+
+#Settings TiempoBus
+
+[ini_parada]
+type = string
+defaultValue = 2947
+_displayName = Default Bus Stop
+
+[ini_linea]
+type = string
+defaultValue = 24
+_displayName = Default Bus Line
+
+[ini_sentido]
+type = list
+_displayName = Direction
+_displayValues = Ida;Vuelta
+defaultValue = 0

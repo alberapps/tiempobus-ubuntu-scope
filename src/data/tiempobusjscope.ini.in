@@ -1,0 +1,10 @@
+[ScopeConfig]
+ScopeRunner=./node_modules/unity-js-scopes/bin/unity-js-scopes-launcher %S %R
+_DisplayName=TiempoBusJScope Alicante
+_Description=Alicante(Spain) Bus Tracker Scope. Bus arrival information in real time.
+Author = Alberto Montiel <alberapps@gmail.com>
+Icon = icon.png
+
+[Appearance]
+PageHeader.Logo = logo.png
+

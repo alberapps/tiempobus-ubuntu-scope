@@ -1,0 +1,4 @@
+[type: gettext/ini] src/data/tiempobusjscope.ini.in
+[type: gettext/ini] src/data/tiempobusjscope-settings.ini.in
+@GENERATED_POTFILES@
+
